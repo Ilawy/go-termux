@@ -10,5 +10,5 @@ func TestBattery(t *testing.T) {
 		t.Error(err)
 		return
 	}
-	t.Log(result)
+	t.Log(result.Current)
 }
