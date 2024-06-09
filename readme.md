@@ -68,4 +68,4 @@ termux-wifi-enable |  ❌ |
 termux-infrared-frequencies |  ❌ |
 termux-sms-inbox |  ❌ |
 
-> termux should be running to use these command.<br/>i still don't know why.
+> *termux should be running to use these command.<br/>i still don't know why.
